@@ -1,0 +1,49 @@
+/* # html_scuola / HTML 5Finf. - AS 2019/2020 */
+
+.card
+{
+	margin: 100px;
+	background-color: #f9e79f;
+	width: 400px;
+	text-align: center;
+	padding: 25px;
+	border-radius: 10px;
+}
+
+.card__photo
+{
+	width: 100%;
+	border-radius: 3px;
+}
+
+.card__title
+{
+	color: black;
+	font-family: "Times Tew Roman";
+	font-weight: bold;
+	font-size: 40px;
+	letter-spacing: 5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.card__caption
+{
+	color: black;
+	font-family: "Times Tew Roman";
+	font-style: italic;
+	font-size: 20px;
+	letter-spacing: 2px;
+	margin-bottom: 20px;
+}
+
+.card__btn
+{
+	background-color: #f5b041;
+	color: black;
+	border: none;
+	border-radius: 5px;
+	padding: 5px;
+	font-family: "Times Tew Roman";
+	font-size: 20px;
+}
