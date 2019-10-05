@@ -1,0 +1,71 @@
+// # html_scuola / HTML 5Finf. - AS 2019/2020
+
+*
+{
+	box-sizing: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+html
+{
+	font-sizing: 125%;
+}
+
+body
+{
+	font-family: 'Roboto', sans-serif;
+	color: #333;
+}
+
+hr
+{
+	border-color: #333;
+	background-color: #f5b041;
+	height: 0.3rem;
+}
+
+.card
+{
+	margin: 50px;
+	background-color: #f9e79f;
+	width: 1000px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.card__photo
+{
+	width: 60%;
+	border-radius: 3px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.card__title
+{
+	font-weight: 900;
+	font-style: italic;
+	font-size: 2.5rem;
+	letter-spacing: 5px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.card__subtitle
+{
+	font-weight: 700;
+	font-size: 1.8rem;
+	letter-spacing: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.card__caption
+{
+	font-size: 1rem;
+	font-weight: 400;
+	letter-spacing: 2px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
